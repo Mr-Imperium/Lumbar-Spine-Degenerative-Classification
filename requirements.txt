@@ -2,9 +2,10 @@ streamlit
 torch
 torchvision
 timm
-albumentations
-pydicom
 numpy
+pydicom
+Pillow
 pandas
-pillow
-scikit-learn
+matplotlib
+seaborn
+albumentations
