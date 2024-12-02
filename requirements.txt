@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+timm
+albumentations
+pydicom
+numpy
+pandas
+pillow
+scikit-learn
